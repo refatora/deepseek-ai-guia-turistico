@@ -1,3 +1,6 @@
+# Ollama docker compose volume
+ollama/
+
 # Logs
 logs
 *.log

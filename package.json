@@ -1,0 +1,36 @@
+{
+  "name": "deepseek-ai-guia-turistico",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/refatora/deepseek-docker"
+  },
+  "version": "1.0.0",
+  "description": "Website de guia turístico com Deepseek AI.",
+  "type": "module",
+  "scripts": {
+    "test": "echo 'This is a test, see package.json'",
+    "make-cities-content": "tsc && node dist/make-cities-content.js",
+    "make-index-page": "tsc && node dist/make-index-page.js",
+    "make-cities-pages": "tsc && node dist/make-cities-pages.js",
+    "deploy": "gh-pages -d docs"
+  },
+  "keywords": [
+    "ai",
+    "deepseek"
+  ],
+  "author": "refatora2024@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "@tsconfig/node22": "^22.0.0",
+    "@tsconfig/strictest": "^2.0.5",
+    "@types/node": "^22.13.4",
+    "gh-pages": "^6.3.0",
+    "prettier": "3.5.1",
+    "typescript": "^5.7.3"
+  },
+  "dependencies": {
+    "@ts-stack/markdown": "^1.5.0",
+    "axios": "^1.7.9",
+    "zod": "^3.24.2"
+  }
+}

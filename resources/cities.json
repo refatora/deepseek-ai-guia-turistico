@@ -1,0 +1,52 @@
+[
+    {
+      "name": "São Paulo",
+      "nameNormalized": "sao-paulo",
+      "region": "SP"
+    },
+    {
+      "name": "Rio de Janeiro",
+      "nameNormalized": "rio-de-janeiro",
+      "region": "RJ"
+    },
+    {
+      "name": "Brasília",
+      "nameNormalized": "brasilia",
+      "region": "DF"
+    },
+    {
+      "name": "Salvador",
+      "nameNormalized": "salvador",
+      "region": "BA"
+    },
+    {
+      "name": "Fortaleza",
+      "nameNormalized": "fortaleza",
+      "region": "CE"
+    },
+    {
+      "name": "Belo Horizonte",
+      "nameNormalized": "belo-horizonte",
+      "region": "MG"
+    },
+    {
+      "name": "Manaus",
+      "nameNormalized": "manaus",
+      "region": "AM"
+    },
+    {
+      "name": "Curitiba",
+      "nameNormalized": "curitiba",
+      "region": "PR"
+    },
+    {
+      "name": "Recife",
+      "nameNormalized": "recife",
+      "region": "PE"
+    },
+    {
+      "name": "Goiânia",
+      "nameNormalized": "goiania",
+      "region": "GO"
+    }
+  ]
