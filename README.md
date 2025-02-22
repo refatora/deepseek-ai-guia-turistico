@@ -7,6 +7,8 @@ Neste projeto, desenvolveremos tudo do zero. Vamos construir um website que ofer
 
 Este projeto está hospedado no GitHub Pages: https://refatora.github.io/deepseek-ai-guia-turistico
 
+Este projeto foi criado neste vídeo: https://youtu.be/5hWcTkNnWPY
+
 ## Requisitos
 
 * [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
